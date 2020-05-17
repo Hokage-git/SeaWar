@@ -1,0 +1,3 @@
+﻿  seawar.cpp
+C:\Users\derta\source\repos\seawar\seawar\seawar.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  seawar.vcxproj -> C:\Users\derta\source\repos\seawar\Debug\seawar.exe
